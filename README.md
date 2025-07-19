@@ -38,17 +38,23 @@ Turn the Voice ON, and let the Rizz begin😉...
 If it doesn't flirt, refresh... it’s just shy.
 
 🧠 Made with:
+
 -A curious brain
+
 -Too much free time
+
 -And zero game... until now 😉
 
 🙌 Want to contribute?
+
 PRs welcome! Add more moods, voice packs, or dramatic flair. This bot loves attention.
 
 🐍 Secret Note
+
 If this bot flirts better than you... just say it's AI-powered 😏
 
 👑 Creator
+
 👤 Priyanka More — aka The Mind Behind the Rizz
 
 ⭐ Don't forget to star the repo if you smiled 😄
