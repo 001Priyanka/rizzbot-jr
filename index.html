@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flirty Bot 😏</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="chat-container">
+    <h1>RizzBot Jr. 😄</h1>
+    <div id="chat-box"></div>
+    <button id="voice-toggle-btn" class="voice-on" style="margin-bottom: 10px;">🔊 Voice On</button>
+
+    <select id="mood-selector">
+     <option value="sweet">Sweet 💖</option>
+     <option value="nerdy">Nerdy 🤓</option>
+     <option value="bold">Bold 🔥</option>
+     <option value="sassy">Sassy 😼</option>
+    </select>
+
+<input type="text" id="user-input" placeholder="Say hi to start..." />
+    <button onclick="sendMessage()">Send</button>
+
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
