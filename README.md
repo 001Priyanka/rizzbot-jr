@@ -13,7 +13,7 @@ Perfect for adding a bit of sass, charm, and *vibes* to your boring browser.
 ## 🚀 Features
 - 🎭 Mood Selector: Tell the bot how you feel
 - 💬 Real-time Typing Animation + Fake Typing Drama
-- 🔊 Voice Toggle: Talk dirty or stay silent
+- 🔊 Voice Toggle: Talk sweetly or stay silent
 - 🧠 Smart & Sweet replies (with a pinch of mischief)
 - 🎨 Fully customizable UI
 
@@ -35,7 +35,7 @@ Turn the Voice ON, and let the Rizz begin😉...
 
 🌐 Live Demo
 [🚀 Click to Launch RizzBot Jr.](https://001Priyanka.github.io/rizzbot-jr/)
-If it doesn't flirt, refresh... it’s just shy.
+If it doesn't flirt, refresh... it’s just shy 😉.
 
 🧠 Made with:
 
