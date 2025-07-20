@@ -35,7 +35,8 @@ Turn the Voice ON, and let the Rizz begin😉...
 
 🌐 Live Demo
 [🚀 Click to Launch RizzBot Jr.](https://001Priyanka.github.io/rizzbot-jr/)
-If it doesn't flirt, refresh... it’s just shy 😉.
+
+If it doesn't flirt, refresh... it’s just shy 🫣.
 
 🧠 Made with:
 
